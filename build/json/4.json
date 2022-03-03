@@ -1,0 +1,23 @@
+{
+  "dna": "1604d42c955f0b3e85cafb76171ad0884cd64566",
+  "name": "#4",
+  "description": "Your project description",
+  "image": "ipfs://NewUriToReplace/4.gif",
+  "edition": 4,
+  "date": 1646336578689,
+  "attributes": [
+    {
+      "trait_type": "face",
+      "value": "maskeyes"
+    },
+    {
+      "trait_type": "chest",
+      "value": "jacket"
+    },
+    {
+      "trait_type": "hat",
+      "value": "constructor"
+    }
+  ],
+  "compiler": "Generative GIF Engine"
+}

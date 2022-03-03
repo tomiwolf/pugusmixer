@@ -1,0 +1,209 @@
+[
+  {
+    "dna": "9182cc6faa263c65c2255b76798712877a0e726f",
+    "name": "#1",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/1.gif",
+    "edition": 1,
+    "date": 1646336572823,
+    "attributes": [
+      {
+        "trait_type": "face",
+        "value": "maskside"
+      },
+      {
+        "trait_type": "chest",
+        "value": "jacket"
+      },
+      {
+        "trait_type": "hat",
+        "value": "happybday"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  },
+  {
+    "dna": "9cb67e2101a895b37f00e6f5c61fabf9954bbcb8",
+    "name": "#2",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/2.gif",
+    "edition": 2,
+    "date": 1646336574703,
+    "attributes": [
+      {
+        "trait_type": "face",
+        "value": "maskside"
+      },
+      {
+        "trait_type": "chest",
+        "value": "shirt"
+      },
+      {
+        "trait_type": "hat",
+        "value": "constructor"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  },
+  {
+    "dna": "110d1ee3cb1276e846aa4e45b0739f04b74e6b41",
+    "name": "#3",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/3.gif",
+    "edition": 3,
+    "date": 1646336576593,
+    "attributes": [
+      {
+        "trait_type": "face",
+        "value": "facesnorkel"
+      },
+      {
+        "trait_type": "chest",
+        "value": "bikini"
+      },
+      {
+        "trait_type": "hat",
+        "value": "constructor"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  },
+  {
+    "dna": "1604d42c955f0b3e85cafb76171ad0884cd64566",
+    "name": "#4",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/4.gif",
+    "edition": 4,
+    "date": 1646336578689,
+    "attributes": [
+      {
+        "trait_type": "face",
+        "value": "maskeyes"
+      },
+      {
+        "trait_type": "chest",
+        "value": "jacket"
+      },
+      {
+        "trait_type": "hat",
+        "value": "constructor"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  },
+  {
+    "dna": "6a91c7f955461af339ca453d03cc113d2a75bbe0",
+    "name": "#5",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/5.gif",
+    "edition": 5,
+    "date": 1646336580763,
+    "attributes": [
+      {
+        "trait_type": "face",
+        "value": "maskside"
+      },
+      {
+        "trait_type": "chest",
+        "value": "jacket"
+      },
+      {
+        "trait_type": "hat",
+        "value": "constructor"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  },
+  {
+    "dna": "d045fb440aa7c431e8b5d89db3dd4d0747172bd5",
+    "name": "#6",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/6.gif",
+    "edition": 6,
+    "date": 1646336582713,
+    "attributes": [
+      {
+        "trait_type": "face",
+        "value": "maskside"
+      },
+      {
+        "trait_type": "chest",
+        "value": "bikini"
+      },
+      {
+        "trait_type": "hat",
+        "value": "constructor"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  },
+  {
+    "dna": "b80e2e44a2475de9a2e4ea0ea1cbbd072fb85568",
+    "name": "#7",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/7.gif",
+    "edition": 7,
+    "date": 1646336584633,
+    "attributes": [
+      {
+        "trait_type": "face",
+        "value": "facesnorkel"
+      },
+      {
+        "trait_type": "chest",
+        "value": "shirt"
+      },
+      {
+        "trait_type": "hat",
+        "value": "happybday"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  },
+  {
+    "dna": "1c2deef8cb3a0400656b18b30e5fe6d81fee60b7",
+    "name": "#8",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/8.gif",
+    "edition": 8,
+    "date": 1646336586428,
+    "attributes": [
+      {
+        "trait_type": "face",
+        "value": "maskeyes"
+      },
+      {
+        "trait_type": "chest",
+        "value": "shirt"
+      },
+      {
+        "trait_type": "hat",
+        "value": "constructor"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  },
+  {
+    "dna": "b0890452ceddca3a7fdfd79aac6122d3189975a1",
+    "name": "#9",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/9.gif",
+    "edition": 9,
+    "date": 1646336588210,
+    "attributes": [
+      {
+        "trait_type": "face",
+        "value": "facesnorkel"
+      },
+      {
+        "trait_type": "chest",
+        "value": "shirt"
+      },
+      {
+        "trait_type": "hat",
+        "value": "constructor"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "dna": "110d1ee3cb1276e846aa4e45b0739f04b74e6b41",
+  "name": "#3",
+  "description": "Your project description",
+  "image": "ipfs://NewUriToReplace/3.gif",
+  "edition": 3,
+  "date": 1646336576593,
+  "attributes": [
+    {
+      "trait_type": "face",
+      "value": "facesnorkel"
+    },
+    {
+      "trait_type": "chest",
+      "value": "bikini"
+    },
+    {
+      "trait_type": "hat",
+      "value": "constructor"
+    }
+  ],
+  "compiler": "Generative GIF Engine"
+}

@@ -1,0 +1,23 @@
+{
+  "dna": "9182cc6faa263c65c2255b76798712877a0e726f",
+  "name": "#1",
+  "description": "Your project description",
+  "image": "ipfs://NewUriToReplace/1.gif",
+  "edition": 1,
+  "date": 1646336572823,
+  "attributes": [
+    {
+      "trait_type": "face",
+      "value": "maskside"
+    },
+    {
+      "trait_type": "chest",
+      "value": "jacket"
+    },
+    {
+      "trait_type": "hat",
+      "value": "happybday"
+    }
+  ],
+  "compiler": "Generative GIF Engine"
+}
